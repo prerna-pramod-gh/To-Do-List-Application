@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #74ebd5, #acb6e5);
+    background: #e0f7fa; /* Added a light cyan background color */
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -23,7 +23,7 @@ body {
 }
 
 h1 {
-    text-align: center;
+    text-align: center; /* Title is centered */
     color: #333;
     margin-bottom: 20px;
     font-size: 2rem;
